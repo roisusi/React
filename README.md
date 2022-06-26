@@ -13,17 +13,16 @@ Github:
   <li>Input and validation</li>
   <li>Using useState with fucntion for getting previous valuses setSomthing((count)=>{count + 1})</li>
   <li>Managing Errors</li>
-  <li>Fregments, Portals, Ref</li>
-  <li>useEffect, Reducers, useContext</li>
 </ui>
 
 <h2>Section 9: Diving Deeper: Working with Fragments, Portals & "Refs"</h2>
 <ui>
   <li>Fregments, Portals, Ref</li>
-  <li>useEffect, Reducers, useContext</li>
 </ui>
 
 <h2>Section 10: Advanced: Handling Side Effects, Using Reducers & Using the Context API</h2>
 <ui>
   <li>useEffect</li>
+  <li>Usage of useEffect</li>
+  <li>Rebounsing useEffect using Timeout</li>
 </ui>
